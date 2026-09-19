@@ -1,8 +1,10 @@
 # Hi, I'm Kamohelo Mejaele 👋
 
-Full-stack developer and third-year Software Development student at BYU-Idaho,
-based in South Africa. I build web apps with React/Next.js, Node.js, and .NET/C#,
-and I'm looking for opportunities to grow as a developer on a collaborative team.
+I'm a full-stack developer and third-year Software Development student at BYU-Idaho, based in South Africa. I build web applications and REST APIs with React/Next.js, Node.js/Express, and .NET/C#, backed by MongoDB, PostgreSQL, and MySQL.
+
+Recently, I led a 10-person team building ChefConnect, a Blazor/ASP.NET Core recipe-sharing app deployed on Azure, and built a four-collection REST API with GitHub OAuth, Swagger documentation, and Jest tests. Two years of full-time service in Cape Town taught me to work independently, mentor others, and communicate across cultures, and I bring that to every team. I speak English and Sesotho, and I won first place in the 2026 BYU Management Society "Great Idea" competition.
+
+I'm looking for a full-stack developer role where I can contribute to real products, keep learning, and grow with a collaborative team. I'm open to remote work.
 
 ## 🛠 Skills & Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
